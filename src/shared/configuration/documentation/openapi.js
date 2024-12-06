@@ -6,7 +6,7 @@ export function setupSwagger(app) {
         definition: {
             openapi: '3.0.0',
             info: {
-                title: 'SHOP API',
+                title: 'LazyReader API',
                 version: '1.0.0',
                 license: {
                     name: 'MIT',
