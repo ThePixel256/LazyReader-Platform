@@ -1,0 +1,14 @@
+/node_modules/
+/.idea/vcs.xml
+/.idea/PROYECTO MDW.iml
+/.idea/modules.xml
+/.idea/material_theme_project_new.xml
+/.idea/discord.xml
+
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+
+/.idea/workspace.xml
